@@ -69,8 +69,7 @@ $(function () {
     $(this).children('.description').val(value);
   });
 
-  // Please note: this is my favourtie part of the module - I absolutly love the display of current date and time especially 
-  // since the the time referesed every second - you can find this among the header of the page!
+  // Added a live clock at the top of the page (which is really cool).
   function updateTime() {
     const dateElement = $('#date');
     const timeElement = $('#time');
