@@ -1,6 +1,6 @@
 # Work Day Scheduler Starter Code
-With help of GitHub User: ThomasCalle (Link Below)
-https://github.com/ThomasCalle/Online-Workday-Planner
+* With help of GitHub User: ThomasCalle (Link Below)
+* https://github.com/ThomasCalle/Online-Workday-Planner
 
 ## User Story
 AS AN employee with a busy schedule
